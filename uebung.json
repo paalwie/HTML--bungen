@@ -1,0 +1,48 @@
+{
+    "company": {
+      "name": "Mischok GmbH",
+      "address": "Karlstraße 12, 86150 Augsburg",
+      "USt-IDNr": "DE288483894",
+      "boss": {
+        "boss1": "Kajetan Mischok",
+        "boss2": "Julius Mischok"
+      },
+      "bank": {
+        "iban": "DE15 7204 0045 0113 6978 00",
+        "bic": "HIC COBADEFFXXX"
+      }
+    },
+
+
+    "customer": {
+      "name": "Herr Max Mustermann",
+      "street": "Musterstraße 29",
+      "postcode": "81241",
+      "city": "München",
+      "contact": {
+        "name": "Kajetan Mischok",
+        "phone": "+40 821 56 73 44 20",
+        "email": "kajetan.mischok@mischok.de"
+      }
+    },
+
+
+    "invoice": {
+        "items": [
+        {
+            "position": 1,
+            "description": "Musterprodukt Support",
+            "quantity": "03:00 h",
+            "unitPrice": "90.00 €",
+            "totalPrice": "270.00 €"
+      }
+    ],
+    "number": "20210129-012",
+    "date": "20.01.2021",
+    "totals": {
+      "net": "270.00 €",
+      "tax": "51.30 €",
+      "gross": "321.30 €"
+    }
+    }
+}
