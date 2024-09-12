@@ -16,9 +16,9 @@ body {
 
 }
 
-.text {
-    position: relative;
-    top: -3rem;
+.titeltext {
+    position: absolute;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
