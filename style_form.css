@@ -1,0 +1,10 @@
+.form-test {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 0.5rem;
+}
+
+h2 {
+    size: cm;
+}
